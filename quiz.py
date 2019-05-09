@@ -32,7 +32,7 @@ def smallest():
 
 def remove():
 	x = ['a','b','a','e','d','b','c','e','f','g','h']
-	x.pull()
+	x.pop()
 	print(x)
 
 
